@@ -14,7 +14,7 @@ Twitter_E-CNY_public_opinion_20Nov.ipynb	推特帖文的情感洞察和用户行
 
 Public_Opinion_28Nov.ipynb	微博推特帖文的情感洞察和用户行为聚类
 
-## twb
+## Tableau Dashboard
 
 acr.twb	总发帖量、人均发帖量、累计转赞评、帖均转赞评 
 
